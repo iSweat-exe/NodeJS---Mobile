@@ -24,8 +24,6 @@ pkg upgrade -y
 **Step 3 :** respond with "**Y**" for all queries.
 ```bash
 pkg install nodejs -y
-// or
-pkg install nodejs-lts -y
 ```
 
 **Step 4 :** *Verification*
